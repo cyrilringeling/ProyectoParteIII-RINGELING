@@ -1,7 +1,7 @@
 # ProyectoParteIII-RINGELING
 Proyecto Final Data Science I, comisión 74225
 
-# Objetivo: Detector talentos en FIFA 21
+# Objetivo: Detección talentos en FIFA 21
 Este proyecto utiliza un dataset de jugadores del juego FIFA 21 para construir un modelo de clasificación que predice la categoría sobre l calidad de cada jugador (Elite, muy bueno...) en función de las caracteristicas técnicas, físicas y mentales. El objetivo final es identificar jugadores que están subvalorados o sobrevalorados, lo que podría ser útil al momento de tomar decisiones de scouting o análisis del mercado
 
 # Metodología:
