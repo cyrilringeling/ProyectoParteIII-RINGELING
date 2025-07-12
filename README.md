@@ -22,3 +22,6 @@ Este proyecto utiliza un dataset de jugadores del juego FIFA 21 para construir u
 - El modelo alcanzó un alto nivel de precisión
 - Se generaron visualizaciones que ayudan a comprender la distribución de calidad entre los jugadores.
 - Se identificaron posibles talentos ocultos y jugadores sobrevalorados en el dataset
+
+Link Colab:
+https://colab.research.google.com/drive/1bu8PwQvtsAEaMhAT_yNYW_-xJ4xuU0mm?usp=sharing
